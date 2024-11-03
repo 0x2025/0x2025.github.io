@@ -3,8 +3,10 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="in"
-                 name="Instance Name"
-                 start-page="starter.md">
+                 name="Zero to Code"
+                 start-page="Hello.md">
 
+    <toc-element topic="Hello.md"/>
     <toc-element topic="starter.md"/>
+    <toc-element topic="Software-Development-in-the-era-of-AI.md"/>
 </instance-profile>
