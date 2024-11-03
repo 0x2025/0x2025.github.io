@@ -33,12 +33,11 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
-      - name: Zip extract
-        uses: hoatruongdev09/extract-zip@v1.2
+      - name: Extract tgz
+        uses: ihiroky/extract-action@v1
         with:
-          # zip file path
-          input-path: "./docs/webHelpIN2-all.zip"
-          output-path: "./dist"
+          file_path: "./docs/webHelpIN2-all.zip"
+          extract_dir: "./dist"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
