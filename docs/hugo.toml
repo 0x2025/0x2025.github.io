@@ -1,0 +1,4 @@
+baseURL = 'https://02code.com/'
+languageCode = 'en-us'
+title = 'A software engineering journey'
+theme = "cactus"
