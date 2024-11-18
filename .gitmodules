@@ -1,0 +1,6 @@
+[submodule "docs/hugo-theme-cactus"]
+	path = docs/hugo-theme-cactus
+	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
+[submodule "docs/themes/cactus"]
+	path = docs/themes/cactus
+	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
