@@ -1,3 +1,0 @@
-# Software Development in the era of AI
-
-Start typing here...
