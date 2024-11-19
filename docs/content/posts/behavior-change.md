@@ -12,48 +12,48 @@ keywords:
 # We Can Change People's Behavior
 I read a document from a secret agency that describes methods to change people's minds. By understanding psychology and creating a nurturing environment, this process takes time but yields significant results.
 
-# How can we use this to make positive impact instead?
-In the coporation environment, nurturing employee in the good behavior will benefit both employeer and employees. This is a win-win game that we all to play. 
+# How Can We Use This to Make a Positive Impact?
+In a corporate environment, nurturing good behavior benefits both employers and employees. It's a win-win situation.
 
 > "Human behavior flows from three main sources: desire, emotion, and knowledge." - Plato
 
-If we want to nurture people we have to focus on 3 areas above that Plato was talk about. I notice that in corporation, we have some activities like: tech talk, employee of the years, hackathon, training in house, celebrates important days.
+To nurture people, we must focus on the three areas Plato mentioned. In corporations, activities like tech talks, employee recognition, hackathons, in-house training, and celebrating important days are common.
 
-Have you ever curious why they do that? some just do it as other company do and some understand why they do what they do.
+Have you ever wondered why these activities are done? Some companies do them because others do, while some understand their purpose.
 
-I was curious about it, what I concluse about those activities is that they make people have a feeling of:
+I concluded that these activities make people feel:
 
 **Desire**
-* What we want?
+* What do we want?
     * Income
     * Job security
     * Public recognition  
 
 **Emotion**
-* How we feel?
+* How do we feel?
     * Safety
     * Meaningful work/connection
     * Sense of belonging 
 
 **Knowledge**
-* What we know/understand
+* What do we know/understand?
     * Acquire knowledge
-    * Do thing right  
+    * Do things right  
 
-# Wrongs thing to do
+# Wrong Things to Do
 
-As an organization, change people behevior requires times and commitment from the top. The reasons are clear as there are two complex part of human: rational (knowledge) and irrational (desired, emotion)
+Changing people's behavior requires time and commitment from the top. Human behavior is complex, involving both rational (knowledge) and irrational (desire, emotion) aspects.
 
-The success of this game must be focus on 3 part and involve many stackholders and efforts. Only do one of it or two of it is not enough and fail.
+Success must focus on all three areas and involve many stakeholders and efforts. Doing only one or two is not enough and will fail.
 
-# Start at small step
+# Start with Small Steps
 
-Now, if you think this is possible and want to figure how to do for your organization? lets begin with super small steps.
+If you believe this is possible and want to implement it in your organization, start with small steps.
 
-The questions to start:
+Questions to consider:
 * What is your desired behavior?
-* What is the key driver of it?
-* What is return of invesment?
-* Who will benefits?
+* What drives this behavior?
+* What is the return on investment?
+* Who benefits?
 
-I will write what I thinks about behavior changes for my organization in the upcoming article.
+I will share my thoughts on behavior changes for my organization in an upcoming article.
