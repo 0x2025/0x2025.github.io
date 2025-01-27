@@ -50,22 +50,30 @@ This tool will be my go-to upon signing in. It will show:
 * Architecture
 * System health
 * Codebase health
-* TO-DOs
+* Suggest my TO-DOs
+  * Code refactoring
+  * Code smell
+  * Code complexity
+  * Misuse framework/tools
 
 Example scenarios:
 
-Person A: "I can't make an API call, can you check?"
+Person A: "I can't make an API call, can you check?"  
 Me: 
+```
     $ show me service XXX
     Health: yes
     Errors in last 5 minutes: Yes. Click to view details
+```  
 
 Quickly, I can answer and view logs. Woohoo!
 
-Person B: "Who consumes this event?"
+Person B: "Boss!!, Who consumes this event?"  
 Me: 
+```
     $ show architecture
     [Visualizing]
+```  
 
 I can quickly show who consumes and produces events, and guide them to do it themselves as the tool stores data in the code repository.
 
