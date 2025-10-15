@@ -2,24 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A software engineering journey</title>
-    <link>http://localhost:1313/</link>
+    <link>https://02code.com/</link>
     <description>Recent content on A software engineering journey</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Nov 2024 08:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://02code.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scale Millions of Users with Strapi</title>
+      <link>https://02code.com/posts/using-strapi-to-build-high-scale-system/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://02code.com/posts/using-strapi-to-build-high-scale-system/</guid>
+      <description>&lt;h1 id=&#34;what&#34;&gt;What?&lt;/h1&gt;&#xA;&lt;p&gt;We built an Instagram Reel-like application with like/share/comment features serving millions of users in less than 6 months using Strapi. Here&amp;rsquo;s our journey and challenges.&lt;/p&gt;&#xA;&lt;h1 id=&#34;why-strapi&#34;&gt;Why Strapi?&lt;/h1&gt;&#xA;&lt;p&gt;Strapi is a headless CMS with an intuitive UI and simple setup. It provides everything needed out-of-the-box:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;HTTP Server&lt;/li&gt;&#xA;&lt;li&gt;Authentication &amp;amp; Authorization&lt;/li&gt;&#xA;&lt;li&gt;Role-based permissions&lt;/li&gt;&#xA;&lt;li&gt;Database Management&lt;/li&gt;&#xA;&lt;li&gt;Migrations&lt;/li&gt;&#xA;&lt;li&gt;REST API&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;architecture&#34;&gt;Architecture&lt;/h1&gt;&#xA;&lt;p&gt;Our architecture splits into two parts:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;A CMS (Strapi)&lt;/li&gt;&#xA;&lt;li&gt;Microservices (handling listing, interactions, search)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;We use Kafka as the central hub for data replication between CMS and microservices, following an event-driven architecture. Each service operates independently, eliminating single points of failure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building a Tool for Software Architects</title>
+      <link>https://02code.com/posts/building-a-tool-for-software-architect/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://02code.com/posts/building-a-tool-for-software-architect/</guid>
+      <description>&lt;h1 id=&#34;pain-points&#34;&gt;Pain Points&lt;/h1&gt;&#xA;&lt;p&gt;As a software architect and tech lead who codes daily, I frequently face these challenges:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Communicating architecture to team members&lt;/li&gt;&#xA;&lt;li&gt;Keeping architecture and decisions up to date&lt;/li&gt;&#xA;&lt;li&gt;Identifying and educating the team on patterns&lt;/li&gt;&#xA;&lt;li&gt;Maintaining codebase health&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Once the product is in operation, additional challenges include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Identifying and troubleshooting infrastructure issues&lt;/li&gt;&#xA;&lt;li&gt;Debugging application issues via logs and tracing&lt;/li&gt;&#xA;&lt;li&gt;Collaborating with POs, engineers, and QA&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;desired-tools&#34;&gt;Desired Tools&lt;/h1&gt;&#xA;&lt;p&gt;Imagine tools that boost my performance 1000x.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My thoughs on how to build software fast</title>
+      <link>https://02code.com/posts/my-thoughs-on-how-to-build-software-fast/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://02code.com/posts/my-thoughs-on-how-to-build-software-fast/</guid>
+      <description>&lt;h1 id=&#34;the-ideal-software-builder&#34;&gt;The Ideal Software Builder&lt;/h1&gt;&#xA;&lt;p&gt;Imagine making a change and receiving instant feedback. Programming is iterative, and instant feedback is crucial. Early issue detection is cheaper and more efficient.&lt;/p&gt;&#xA;&lt;h1 id=&#34;what-does-a-feedback-system-look-like&#34;&gt;What Does a Feedback System Look Like?&lt;/h1&gt;&#xA;&lt;p&gt;Effective feedback in software comes from practices like TDD, Pair/Mob programming, automation testing, CI/CD, and E2E testing. These aim to provide early feedback. Yet, many struggle with these practices.&lt;/p&gt;&#xA;&lt;h1 id=&#34;why-we-struggle-with-productivity-practices&#34;&gt;Why We Struggle with Productivity Practices&lt;/h1&gt;&#xA;&lt;h2 id=&#34;our-story&#34;&gt;Our story&lt;/h2&gt;&#xA;&lt;p&gt;I lead a team using Strapi to manage short videos. Initially, we focused on understanding our tools rather than fighting them. We didn&amp;rsquo;t adopt TDD due to inexperience and perceived difficulty. With tight deadlines, we faced several challenges:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Changing Behavior of People</title>
+      <link>https://02code.com/posts/behavior-change/</link>
+      <pubDate>Tue, 19 Nov 2024 08:00:00 +0000</pubDate>
+      <guid>https://02code.com/posts/behavior-change/</guid>
+      <description>&lt;h1 id=&#34;we-can-change-peoples-behavior&#34;&gt;We Can Change People&amp;rsquo;s Behavior&lt;/h1&gt;&#xA;&lt;p&gt;I read a document from a secret agency that describes methods to change people&amp;rsquo;s minds. By understanding psychology and creating a nurturing environment, this process takes time but yields significant results.&lt;/p&gt;&#xA;&lt;h1 id=&#34;how-can-we-use-this-to-make-a-positive-impact&#34;&gt;How Can We Use This to Make a Positive Impact?&lt;/h1&gt;&#xA;&lt;p&gt;In a corporate environment, nurturing good behavior benefits both employers and employees. It&amp;rsquo;s a win-win situation.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Human behavior flows from three main sources: desire, emotion, and knowledge.&amp;rdquo; - Plato&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Getting start at writing</title>
-      <link>http://localhost:1313/posts/code-block-test/</link>
+      <link>https://02code.com/posts/getting-start-at-writing/</link>
       <pubDate>Tue, 19 Nov 2024 08:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/code-block-test/</guid>
+      <guid>https://02code.com/posts/getting-start-at-writing/</guid>
       <description>&lt;h1 id=&#34;writing-is-hard&#34;&gt;Writing is hard&lt;/h1&gt;&#xA;&lt;p&gt;Because it take time to think before writing, I was too lazy to write. However, as more time I spend in my works I always think that one day I will writes my knowledge, experience into a article or blog that I can reuse later.&lt;/p&gt;&#xA;&lt;h1 id=&#34;there-alway-starting-point&#34;&gt;There alway starting point&lt;/h1&gt;&#xA;&lt;p&gt;Right, if I&amp;rsquo;m not start today, then when? maybe tomorrow, or never. So just start by very small steps by writing anything in my mind.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://02code.com/about/</link>
       <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://02code.com/about/</guid>
       <description>&lt;p&gt;Hello,&lt;br&gt;&#xA;Contact me at [sang.cu at protonmail.com]&lt;/p&gt;</description>
     </item>
   </channel>
